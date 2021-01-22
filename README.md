@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My friend Amir, in my hometown of Victoria, spends a lot of time choosing a movie to watch for movie nights.
+His main criteria he choses is the genre, rating (must be very high), and country.
+
+In order to help choose a movie quicker, I decided to make a front-end React application using Material UI and the TMDB API.
+
+Currently hosted here: http://movie-generator.s3-website-us-east-1.amazonaws.com/
 
 ## Available Scripts
 
